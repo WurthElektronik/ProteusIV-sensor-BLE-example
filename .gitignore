@@ -1,0 +1,48 @@
+# ---------------------------------------------------------------
+# STM32CubeIDE / Eclipse build output (regenerated on every build)
+# ---------------------------------------------------------------
+Debug/
+Release/
+build/
+*.o
+*.d
+*.su
+*.cyclo
+*.elf
+*.bin
+*.hex
+*.srec
+*.map
+*.list
+*.res
+
+# ---------------------------------------------------------------
+# Eclipse / CubeIDE workspace and local files
+# Keep: .project, .cproject, .mxproject, .settings/, *.ioc, *.ld and
+# *.launch so the project imports and debugs out of the box.
+# ---------------------------------------------------------------
+.metadata/
+RemoteSystemsTempFiles/
+.externalToolBuilders/
+.fuse_hidden*
+*.tmp
+*.bak
+*~
+*.log
+
+# ---------------------------------------------------------------
+# Other IDEs
+# ---------------------------------------------------------------
+.vscode/
+.idea/
+*.code-workspace
+
+# ---------------------------------------------------------------
+# OS and sync-client files (OneDrive, Windows, macOS)
+# ---------------------------------------------------------------
+Thumbs.db
+desktop.ini
+~$*
+.DS_Store
+.AppleDouble
+.Trashes
